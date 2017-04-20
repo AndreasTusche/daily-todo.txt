@@ -11,6 +11,12 @@ WARNING
 2) It was designed to run in the MobaXterm Personal Edition v7.2 under Windows 7. It may not run elsewhere without modifications.
 
 
+Prerequisites
+=============
+
+You will need to have GNU awk (gawk) installed on your system. You may ask Google for an existing binary. For Mac OS X there's a good instruction available by [Hong Xu](http://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/).
+
+
 Credits
 =======
 

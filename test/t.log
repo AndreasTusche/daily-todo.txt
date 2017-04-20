@@ -1,0 +1,20 @@
+stat: illegal option -- c
+usage: stat [-FlLnqrsx] [-f format] [-t timefmt] [file ...]
+/usr/bin/awk: invalid -v option
+
+stat: illegal option -- c
+usage: stat [-FlLnqrsx] [-f format] [-t timefmt] [file ...]
+/usr/bin/awk: invalid -v option
+
+/usr/bin/awk: syntax error at source line 37
+ context is
+				if (match($DURATION, >>>  /=([0-9]*)min/, <<<  a)) {tDuration = a[1] *    1 } else
+/usr/bin/awk: illegal statement at source line 38
+/usr/bin/awk: illegal statement at source line 38
+/usr/bin/awk: syntax error at source line 37
+ context is
+				if (match($DURATION, >>>  /=([0-9]*)min/, <<<  a)) {tDuration = a[1] *    1 } else
+/usr/bin/awk: illegal statement at source line 38
+/usr/bin/awk: illegal statement at source line 38
+awk: division by zero
+ source line number 24
